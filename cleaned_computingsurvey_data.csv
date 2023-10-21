@@ -1,0 +1,454 @@
+,Major,hs_councelor,teacher,IT_website,admissions,CCM_advisor,employer,ccmworforce,njworkforce,other,gender,race/ethnicity,age,intereset_rating,first_major,attended_event,received_info
+0,Computer Science,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+1,Computer Science,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,Yes
+2,Liberal Arts,,,,,,,,,,Woman,White/Caucasian,19-20,1.0,,Yes,No
+3,Computer Science,Yes,Yes,No,Yes,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+4,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,No,No
+5,Computer Science,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+6,Information Technology,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Business,No,Yes
+7,High School Student,,,,,,,,,,Prefer not to say,Choose not to reply,18 and younger,4.0,,Yes,No
+8,Computer Science,No,No,No,No,Yes,No,No,No,No,Man,Asian,19-20,,First Choice,No,Yes
+9,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+10,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+11,Business Administration,,,,,,,,,,Woman,Multi-Racial,18 and younger,1.0,,Yes,No
+12,Liberal Arts,,,,,,,,,,Man,White/Caucasian,21-24,2.0,,Yes,No
+13,High School Student,,,,,,,,,,I do not identify,White/Caucasian,18 and younger,2.0,,Yes,No
+14,Music,,,,,,,,,,Man,White/Caucasian,19-20,5.0,,Yes,No
+15,Information Technology,No,No,Yes,Yes,Yes,No,No,No,Don't recall,Man,Hispanic or Latino,25-34,,Nursing,Yes,Yes
+16,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Liberal Arts,Yes,No
+17,Computer Science,No,Yes,Yes,Yes,Yes,No,No,No,No,Man,Asian,19-20,,First Choice,Yes,Yes
+18,Computer Science,Yes,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Yes,Man,Hispanic or Latino,19-20,,Math & Science,Yes,Yes
+19,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+20,Math & Sciences,,,,,,,,,,Man,Hispanic or Latino,19-20,3.0,,Yes,No
+21,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,No
+22,Computer Science,Yes,Yes,No,No,No,No,No,No,No,Man,Hispanic or Latino,19-20,,First Choice,Yes,Yes
+23,Computer Science,No,No,No,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Asian,18 and younger,,First Choice,Yes,No
+24,Liberal Arts,,,,,,,,,,Man,Hispanic or Latino,21-24,2.0,,Yes,No
+25,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+26,Math & Sciences,,,,,,,,,,Man,White/Caucasian,21-24,3.0,,No,No
+27,Engineering,,,,,,,,,,Man,Multi-Racial,19-20,2.0,,Yes,No
+28,Engineering,,,,,,,,,,Prefer not to say,Choose not to reply,18 and younger,4.0,,No,No
+29,Engineering,,,,,,,,,,Man,White/Caucasian,25-34,3.0,,No,No
+30,Game Development,Yes,No,No,Yes,Yes,No,No,No,Yes,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+31,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Undecided,No,No
+32,Business Administration,,,,,,,,,,I do not identify,Asian,65+,5.0,,Yes,No
+33,Computer Science,No,Yes,No,No,No,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+34,Computer Science,Yes,No,Yes,Yes,Yes,No,No,No,No,Woman,Asian,18 and younger,,First Choice,No,Yes
+35,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,No
+36,Computer Science,No,Yes,No,No,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,No,Yes
+37,Challenger,Yes,Yes,Don't recall,No,Don't recall,Yes,No,No,Don't recall,Woman,American Indian/Native American/Alaska Native,19-20,,Business,Yes,Yes
+38,Computer Science,No,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,No,No
+39,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Yes,No,No,No,No,Man,Hispanic or Latino,21-24,,Math & Science,Yes,Yes
+40,Non-degree,,,,,,,,,,Man,Hispanic or Latino,21-24,5.0,,Yes,No
+41,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+42,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Asian,19-20,,First Choice,No,Yes
+43,Computer Science,Yes,No,No,Yes,No,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+44,Computer Science,Don't recall,Don't recall,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,Business,Yes,Yes
+45,Computer Science,Yes,Yes,No,No,No,No,No,No,No,Man,Hispanic or Latino,19-20,,First Choice,No,Yes
+46,Computer Science,Yes,Yes,Yes,Yes,Don't recall,No,No,Don't recall,No,Woman,Hispanic or Latino,19-20,,First Choice,Yes,Yes
+47,Computer Science,No,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,No,No
+48,Game Development,Yes,Yes,No,No,No,No,No,No,Yes,Woman,Multi-Racial,19-20,,First Choice,Yes,Yes
+49,Math & Sciences,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,19-20,,Engineering,Yes,Yes
+50,Computer Science,No,No,No,No,No,No,No,No,Yes,Man,Hispanic or Latino,19-20,,Health Sciences,Yes,Yes
+51,Computer Science,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+52,Business Administration,,,,,,,,,,Man,Hispanic or Latino,18 and younger,3.0,,No,No
+53,Game Development,No,No,No,Yes,No,No,No,No,No,Man,Multi-Racial,21-24,,History,Yes,Yes
+54,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Choose not to reply,19-20,,First Choice,Yes,Yes
+55,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,1.0,,Yes,No
+56,Computer Science,No,No,No,No,Yes,No,No,No,No,Man,Hispanic or Latino,21-24,,Business,No,Yes
+57,Computer Science,No,No,No,Yes,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+58,Engineering,,,,,,,,,,Man,Hispanic or Latino,19-20,4.0,,No,No
+59,Computer Science,Don't recall,Don't recall,Yes,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Business,No,Yes
+60,Game Development,No,No,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+61,Game Development,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,No
+62,Computer Science,No,No,No,Yes,No,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,No,Yes
+63,Engineering,,,,,,,,,,Man,Hispanic or Latino,19-20,4.0,,No,No
+64,Computer Science,No,Don't recall,No,Yes,Yes,Don't recall,No,Don't recall,Yes,Woman,Multi-Racial,18 and younger,,Math & Science,Yes,Yes
+65,Game Development,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Man,White/Caucasian,18 and younger,,Liberal Arts,Yes,Yes
+66,Information Technology,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Prefer not to say,White/Caucasian,19-20,,First Choice,Yes,Yes
+67,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,4.0,,Yes,No
+68,Engineering,,,,,,,,,,Woman,Multi-Racial,18 and younger,3.0,,No,No
+69,Challenger,No,No,No,No,No,No,No,No,No,Man,Choose not to reply,18 and younger,,Engineering,Yes,No
+70,Game Development,No,No,No,No,No,No,No,No,Yes,Prefer not to say,White/Caucasian,18 and younger,,First Choice,No,Yes
+71,Engineering,,,,,,,,,,Woman,White/Caucasian,18 and younger,4.0,,Yes,No
+72,Engineering,,,,,,,,,,Man,Multi-Racial,18 and younger,3.0,,Yes,No
+73,Psychology,,,,,,,,,,Woman,White/Caucasian,19-20,3.0,,Yes,No
+74,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+75,Engineering,,,,,,,,,,Woman,Black/African American,18 and younger,4.0,,Yes,No
+76,Challenger,Yes,Yes,Yes,Don't recall,Don't recall,No,No,No,No,Man,White/Caucasian,18 and younger,,Undecided,Yes,Yes
+77,Undecided,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+78,Undecided,,,,,,,,,,Man,Asian,18 and younger,4.0,,Yes,No
+79,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,4.0,,Yes,No
+80,High School Student,,,,,,,,,,Man,Hispanic or Latino,18 and younger,4.0,,Yes,No
+81,Engineering,,,,,,,,,,Man,Multi-Racial,18 and younger,3.0,,Yes,No
+82,Undecided,,,,,,,,,,Man,Choose not to reply,18 and younger,3.0,,No,No
+83,Computer Science,No,No,No,No,No,No,No,No,No,I do not identify,Multi-Racial,18 and younger,,First Choice,Yes,No
+84,Computer Science,No,No,Yes,No,No,No,Don't recall,No,Don't recall,Man,Asian,21-24,,First Choice,Yes,Yes
+85,Computer Science,Yes,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,21-24,,Engineering,Yes,Yes
+86,Arts,Yes,Yes,No,Yes,No,No,No,No,No,Man,Hispanic or Latino,19-20,,Liberal Arts,Yes,Yes
+87,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Multi-Racial,18 and younger,,First Choice,No,No
+88,Information Technology,Yes,Don't recall,No,Yes,No,No,No,No,Don't recall,Man,Hispanic or Latino,18 and younger,,Engineering,Yes,Yes
+89,Business Administiration,,,,,,,,,,Woman,Multi-Racial,18 and younger,3.0,,Yes,No
+90,Arts,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,No
+91,Information Technology,No,No,Yes,Yes,No,No,No,No,No,Woman,Hispanic or Latino,19-20,,Criminal Justice,Yes,Yes
+92,Web Development,No,No,Yes,No,No,No,No,No,No,Woman,Multi-Racial,18 and younger,,First Choice,No,Yes
+93,Information Technology,Don't recall,Don't recall,Yes,Don't recall,Don't recall,No,No,No,Don't recall,Man,White/Caucasian,21-24,,First Choice,No,Yes
+94,Arts,Yes,Yes,No,No,Yes,No,No,No,No,Woman,White/Caucasian,19-20,,First Choice,Yes,Yes
+95,Business Administiration,,,,,,,,,,Man,Asian,19-20,3.0,,Yes,No
+96,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,Asian,19-20,,Engineering,No,Yes
+97,Information Technology,No,No,No,No,No,No,No,No,No,Man,Asian,21-24,,First Choice,No,No
+98,Computer Science,No,No,Yes,No,No,No,No,No,Yes,Man,Asian,19-20,,Engineering,No,Yes
+99,Information Technology,No,No,No,No,No,No,No,No,Yes,Prefer not to say,Choose not to reply,35-64,,First Choice,No,Yes
+100,Math & Sciences,,,,,,,,,,Woman,White/Caucasian,18 and younger,3.0,,Yes,No
+101,Non-degree,,,,,,,,,,Woman,White/Caucasian,35-64,4.0,,No,No
+102,ShareTime CSIP Program,No,No,No,No,No,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+103,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+104,Information Technology,Yes,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,No,Yes
+105,Information Technology,Yes,Yes,No,No,No,No,No,No,No,Woman,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+106,Information Technology,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+107,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+108,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+109,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Woman,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+110,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,Engineering,Yes,Yes
+111,ShareTime CSIP Program,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+112,ShareTime CSIP Program,No,No,Yes,No,No,No,No,No,Yes,Man,Multi-Racial,18 and younger,,,Yes,Yes
+113,Information Technology,No,Yes,No,Yes,Yes,No,No,No,No,Man,Choose not to reply,19-20,,First Choice,Yes,Yes
+114,Information Security,No,No,No,No,No,No,No,No,Yes,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+115,Challenger,Yes,No,No,No,No,No,No,No,Yes,Woman,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+116,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+117,ShareTime CSIP Program,Yes,No,No,No,Yes,No,No,No,Yes,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+118,Business Administration,,,,,,,,,,Man,Hispanic or Latino,35-64,5.0,,No,No
+119,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,White/Caucasian,18 and younger,,,Yes,No
+120,Game Development,No,No,Yes,Yes,No,No,No,No,No,Woman,White/Caucasian,19-20,,First Choice,No,Yes
+121,Early Childhood Education,,,,,,,,,,Woman,White/Caucasian,19-20,1.0,,Yes,No
+122,Computer Science,No,No,No,No,Yes,No,No,No,No,Man,White/Caucasian,21-24,,Business,No,Yes
+123,Computer Science,No,No,No,No,No,No,No,No,No,Woman,Multi-Racial,19-20,,Criminal Justice,No,No
+124,Computer Science,No,No,No,No,No,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,No,No
+125,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Prefer not to say,Choose not to reply,18 and younger,,First Choice,No,No
+126,Undecided,,,,,,,,,,Man,Choose not to reply,35-64,5.0,,No,No
+127,Computer Science,No,No,No,Yes,Don't recall,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+128,Information Technology,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Woman,Asian,21-24,,First Choice,Yes,Yes
+129,Information Technology,No,Yes,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,Architecture,No,Yes
+130,Undecided,,,,,,,,,,Man,White/Caucasian,18 and younger,4.0,,Yes,No
+131,Computer Science,Don't recall,No,No,No,No,No,No,No,No,Non-binary,White/Caucasian,18 and younger,,First Choice,Yes,No
+132,Computer Science,No,No,No,No,No,No,No,No,No,Woman,Asian,21-24,,Engineering,Yes,No
+133,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Asian,25-34,,First Choice,Yes,Yes
+134,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,Criminal Justice,Yes,Yes
+135,Information Technology,No,No,No,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+136,Arts,No,No,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,Yes,Yes
+137,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+138,Computer Science,No,No,Yes,Yes,No,No,No,No,No,Woman,Multi-Racial,21-24,,First Choice,Yes,Yes
+139,Arts,No,No,Yes,No,Yes,No,No,No,No,Man,Hispanic or Latino,21-24,,First Choice,No,Yes
+140,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Multi-Racial,21-24,,Engineering,Yes,Yes
+141,Computer Science,No,No,No,Yes,Yes,No,No,No,No,Man,Asian,19-20,,First Choice,No,Yes
+142,Computer Science,Don't recall,Don't recall,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Yes,Man,Hispanic or Latino,35-64,,First Choice,Yes,Yes
+143,Engineering,,,,,,,,,,Man,Hispanic or Latino,21-24,3.0,,Yes,No
+144,Information Technology,No,No,No,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+145,Information Technology,No,No,Yes,Yes,No,No,No,No,No,Woman,Multi-Racial,19-20,,First Choice,No,Yes
+146,Game Development,No,No,No,No,No,No,No,No,No,Woman,White/Caucasian,19-20,,First Choice,No,No
+147,Computer Science,No,No,No,No,Don't recall,No,No,No,No,Man,Hispanic or Latino,25-34,,Business,Yes,No
+148,Undecided,,,,,,,,,,Man,White/Caucasian,19-20,5.0,,Yes,No
+149,Undecided,,,,,,,,,,Man,White/Caucasian,21-24,3.0,,No,No
+150,Computer Science,No,No,No,No,No,No,No,No,No,Man,Black/African American,19-20,,Business,No,No
+151,Computer Science,Yes,No,Yes,Yes,Yes,No,No,No,Don't recall,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+152,Web Development,No,No,Yes,No,No,No,No,No,No,Woman,Asian,25-34,,First Choice,Yes,Yes
+153,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Asian,19-20,,Engineering,No,Yes
+154,Undecided,,,,,,,,,,Man,Hispanic or Latino,21-24,4.0,,Yes,No
+155,Undecided,,,,,,,,,,Man,White/Caucasian,25-34,4.0,,Yes,No
+156,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Asian,19-20,,First Choice,Yes,Yes
+157,Engineering,,,,,,,,,,Man,Hispanic or Latino,19-20,2.0,,No,No
+158,Undecided,,,,,,,,,,Man,White/Caucasian,19-20,5.0,,Yes,No
+159,Computer Science,No,No,Yes,Yes,No,No,No,No,No,Prefer not to say,Choose not to reply,21-24,,First Choice,No,Yes
+160,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,65+,,Art,No,Yes
+161,Undecided,,,,,,,,,,Man,White/Caucasian,19-20,4.0,,No,No
+162,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,25-34,,First Choice,No,Yes
+163,Computer Science,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,Black/African American,18 and younger,,Business,Yes,Yes
+164,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+165,Political Science,,,,,,,,,,Man,Hispanic or Latino,19-20,2.0,,Yes,No
+166,Engineering,,,,,,,,,,Man,Hispanic or Latino,21-24,5.0,,No,No
+167,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,Business,Yes,Yes
+168,Information Technology,Yes,Yes,Don't recall,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+169,Information Technology,Don't recall,Don't recall,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+170,Information Technology,Yes,No,No,Yes,No,No,No,No,Yes,Man,White/Caucasian,19-20,,First Choice,No,Yes
+171,Information Technology,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+172,Business Administration,,,,,,,,,,Man,White/Caucasian,25-34,5.0,,Yes,No
+173,Computer Science,No,No,Yes,Don't recall,Don't recall,No,No,No,No,Woman,White/Caucasian,19-20,,Liberal Arts,Yes,Yes
+174,Computer Science,No,Yes,Don't recall,Yes,Yes,No,No,No,No,Man,Multi-Racial,19-20,,First Choice,Yes,Yes
+175,Engineering,,,,,,,,,,Man,White/Caucasian,21-24,4.0,,No,No
+176,Computer Science,No,Yes,No,Don't recall,Don't recall,No,Don't recall,Don't recall,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+177,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,No
+178,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,21-24,,Business,No,Yes
+179,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+180,Information Technology,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+181,Computer Science,Yes,Yes,Yes,Yes,No,No,No,No,No,Woman,Asian,19-20,,Math & Science,Yes,Yes
+182,Computer Science,No,No,Yes,No,No,No,No,No,Yes,Non-binary,White/Caucasian,19-20,,First Choice,Yes,Yes
+183,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Woman,Asian,21-24,,Engineering,Yes,No
+184,Computer Science,Yes,Yes,Yes,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+185,Information Technology,No,Yes,No,No,No,No,No,No,Don't recall,Man,Asian,18 and younger,,First Choice,Yes,Yes
+186,Information Technology,Yes,No,No,No,Yes,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,No,Yes
+187,Computer Science,Don't recall,Yes,Yes,Yes,Don't recall,No,Don't recall,Don't recall,No,Woman,White/Caucasian,25-34,,Liberal Arts,Yes,Yes
+188,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Yes,No,No,No,No,Man,Choose not to reply,19-20,,First Choice,No,Yes
+189,Information Technology,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,Engineering,Yes,No
+190,Computer Science,No,No,No,No,No,No,No,No,No,Non-binary,Asian,19-20,,First Choice,No,No
+191,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+192,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Multi-Racial,35-64,,Engineering,No,No
+193,Information Technology,Yes,No,Yes,No,No,No,No,No,No,Woman,Hispanic or Latino,19-20,,Liberal Arts,Yes,Yes
+194,Computer Science,No,No,Yes,Yes,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+195,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,Yes,No
+196,Business Administration,,,,,,,,,,Man,Multi-Racial,25-34,3.0,,No,No
+197,Information Technology,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,Business,Yes,Yes
+198,Computer Science,No,No,No,No,No,No,No,No,No,Woman,Asian,21-24,,First Choice,No,No
+199,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,No
+200,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,No,No
+201,Business Administration,,,,,,,,,,Man,White/Caucasian,21-24,3.0,,Yes,No
+202,Business Administration,,,,,,,,,,Man,Choose not to reply,19-20,4.0,,Yes,No
+203,Computer Science,No,No,No,No,No,No,No,No,No,Woman,Hispanic or Latino,35-64,,Engineering,No,No
+204,Data Science,Don't recall,No,Yes,No,No,No,No,No,No,Woman,Multi-Racial,19-20,,Math & Science,Yes,Yes
+205,Business Administration,,,,,,,,,,Woman,Hispanic or Latino,19-20,4.0,,Yes,No
+206,Information Technology,No,No,Yes,No,No,No,No,No,No,Woman,Hispanic or Latino,35-64,,Nursing,Yes,Yes
+207,Non-degree,,,,,,,,,,Man,White/Caucasian,65+,4.0,,No,No
+208,Computer Science,No,No,No,Yes,Yes,No,No,No,No,Man,Hispanic or Latino,35-64,,First Choice,Yes,Yes
+209,Computer Science,No,No,Yes,Yes,Yes,No,Yes,No,No,Man,Hispanic or Latino,35-64,,First Choice,Yes,Yes
+210,Computer Science,Yes,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+211,Information Technology,No,No,No,No,No,No,No,No,Yes,Man,Black/African American,18 and younger,,Business,Yes,Yes
+212,Information Technology,Don't recall,Don't recall,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,No,Yes
+213,Information Technology,No,No,Yes,No,Yes,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,No,Yes
+214,Computer Science,Yes,Yes,No,No,No,No,No,No,No,Man,Asian,19-20,,First Choice,Yes,Yes
+215,Math & Sciences,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,25-34,,Liberal Arts,Yes,Yes
+216,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Multi-Racial,21-24,,Engineering,Yes,Yes
+217,Engineering,,,,,,,,,,Man,White/Caucasian,25-34,5.0,,Yes,No
+218,Information Technology,No,No,No,No,Yes,No,No,No,No,Man,Black/African American,35-64,,First Choice,Yes,Yes
+219,Computer Science,Yes,Don't recall,No,Don't recall,Yes,Yes,No,Don't recall,No,Woman,Multi-Racial,21-24,,Business,Yes,Yes
+220,Information Technology,No,No,Yes,Don't recall,No,Yes,No,No,Yes,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+221,Information Technology,No,No,No,No,No,No,No,No,No,Non-binary,White/Caucasian,19-20,,First Choice,No,No
+222,Computer Science,Yes,No,No,No,No,No,No,No,No,Woman,Hispanic or Latino,19-20,,First Choice,No,Yes
+223,Game Development,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+224,Computer Science,Yes,Yes,No,No,No,No,No,No,No,Man,Multi-Racial,19-20,,First Choice,No,Yes
+225,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Hispanic or Latino,19-20,,First Choice,Yes,Yes
+226,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,21-24,,Engineering,No,No
+227,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,No
+228,Economics,,,,,,,,,,Woman,Black/African American,19-20,3.0,,No,No
+229,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,4.0,,Yes,No
+230,Information Technology,No,No,No,No,No,No,No,No,Don't recall,Man,Hispanic or Latino,35-64,,First Choice,No,No
+231,Nursing,,,,,,,,,,Woman,White/Caucasian,19-20,1.0,,No,No
+232,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Black/African American,35-64,,Math & Science,Yes,Yes
+233,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+234,Data Science,No,No,Yes,No,No,No,No,No,No,Man,Choose not to reply,21-24,,First Choice,Yes,Yes
+235,Challenger,Yes,No,No,No,No,No,No,No,Don't recall,Woman,Asian,18 and younger,,Liberal Arts,Yes,Yes
+236,Undecided,,,,,,,,,,Man,Hispanic or Latino,18 and younger,4.0,,Yes,No
+237,Computer Science,Don't recall,Don't recall,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Man,Hispanic or Latino,21-24,,First Choice,Yes,Yes
+238,High School Student,,,,,,,,,,Woman,Multi-Racial,18 and younger,5.0,,Yes,No
+239,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,Engineering,Yes,Yes
+240,Engineering,,,,,,,,,,Man,Hispanic or Latino,25-34,5.0,,No,No
+241,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,No,No
+242,Computer Science,No,No,No,No,No,No,No,No,No,Woman,Asian,19-20,,First Choice,No,No
+243,Computer Science,No,No,No,Yes,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+244,Computer Science,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,Yes
+245,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,Yes,No
+246,Liberal Arts,,,,,,,,,,Prefer not to say,White/Caucasian,19-20,3.0,,Yes,No
+247,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,Yes
+248,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+249,Computer Science,Yes,No,Yes,Yes,Yes,No,No,No,Don't recall,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+250,Undecided,,,,,,,,,,Man,White/Caucasian,18 and younger,4.0,,Yes,No
+251,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+252,Information Technology,No,No,No,No,No,No,No,Yes,No,Woman,Choose not to reply,25-34,,Business,No,Yes
+253,Engineering,,,,,,,,,,Man,Choose not to reply,19-20,3.0,,Yes,No
+254,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,Yes,No
+255,Computer Science,No,Yes,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+256,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+257,Computer Science,No,No,Yes,No,Yes,No,No,No,Yes,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+258,Computer Science,No,No,No,No,No,No,No,No,No,Man,Asian,25-34,,First Choice,Yes,No
+259,Game Development,No,Don't recall,Don't recall,Don't recall,No,No,No,No,Don't recall,Man,White/Caucasian,19-20,,First Choice,Yes,No
+260,Undecided,,,,,,,,,,Man,Asian,18 and younger,4.0,,Yes,No
+261,Visiting Student,,,,,,,,,,Man,Asian,19-20,5.0,,Yes,No
+262,Computer Science,No,No,Yes,Yes,No,No,No,No,Don't recall,Woman,Hispanic or Latino,21-24,,First Choice,Yes,Yes
+263,Game Development,No,No,No,Yes,Yes,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+264,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,No
+265,Game Development,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,19-20,,First Choice,Yes,No
+266,Business Administration,,,,,,,,,,Man,Hispanic or Latino,21-24,3.0,,Yes,No
+267,Computer Science,No,No,Yes,No,No,No,No,No,Yes,Woman,Multi-Racial,21-24,,Math & Science,No,Yes
+268,Computer Science,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,Yes
+269,Engineering,,,,,,,,,,Man,White/Caucasian,21-24,2.0,,No,No
+270,Computer Science,Yes,Yes,No,Don't recall,Don't recall,No,No,No,No,Man,Hispanic or Latino,25-34,,First Choice,No,Yes
+271,Computer Science,No,No,No,Yes,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,Yes
+272,Computer Science,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Asian,18 and younger,,Math & Science,No,Yes
+273,Undecided,,,,,,,,,,Non-binary,White/Caucasian,18 and younger,4.0,,Yes,No
+274,Challenger,No,No,No,No,No,No,No,No,Yes,Woman,American Indian/Native American/Alaska Native,18 and younger,,Business,Yes,Yes
+275,Data Science,No,No,No,No,No,No,No,No,No,Woman,White/Caucasian,25-34,,Liberal Arts,Yes,No
+276,Computer Science,No,No,No,Yes,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+277,Data Science,,,,,,,,,,Man,White/Caucasian,21-24,4.0,,No,No
+278,Computer Science,No,No,No,No,No,No,No,No,No,Man,Multi-Racial,19-20,,First Choice,Yes,No
+279,Computer Science,Yes,No,No,Yes,Yes,No,No,No,Yes,Man,Black/African American,19-20,,First Choice,No,Yes
+280,Information Technology,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Woman,Asian,25-34,,First Choice,Yes,Yes
+281,Information Technology,No,No,No,Yes,No,No,No,No,Yes,Man,Asian,21-24,,First Choice,No,Yes
+282,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,Choose not to reply,21-24,,First Choice,Yes,Yes
+283,Information Technology,No,No,Yes,No,No,No,No,No,No,Man,Hispanic or Latino,21-24,,Health Sciences,No,Yes
+284,Information Technology,No,Yes,No,No,No,No,No,No,No,Man,Choose not to reply,19-20,,First Choice,Yes,Yes
+285,Information Technology,No,No,No,No,Yes,No,No,No,No,Man,Black/African American,19-20,,First Choice,No,Yes
+286,Non-degree,,,,,,,,,,Man,White/Caucasian,21-24,4.0,,Yes,No
+287,Data Science,No,No,Don't recall,Yes,Don't recall,No,No,No,No,Man,Multi-Racial,25-34,,,Yes,Yes
+288,Computer Science,Yes,Don't recall,Yes,Yes,Yes,No,No,No,No,Woman,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+289,Data Science,No,No,No,No,No,No,No,No,Yes,Woman,White/Caucasian,35-64,,Math & Science,No,Yes
+290,Game Development,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+291,Non-degree,,,,,,,,,,Man,Asian,18 and younger,4.0,,Yes,No
+292,Undecided,,,,,,,,,,Man,Multi-Racial,18 and younger,4.0,,Yes,No
+293,Engineering,,,,,,,,,,Man,White/Caucasian,21-24,3.0,,Yes,No
+294,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,Undecided,Yes,No
+295,Undecided,,,,,,,,,,Man,Hispanic or Latino,18 and younger,4.0,,Yes,No
+296,Undecided,,,,,,,,,,Man,White/Caucasian,18 and younger,5.0,,Yes,No
+297,Computer Science,No,No,No,No,No,No,No,No,No,Prefer not to say,Choose not to reply,18 and younger,,Engineering,Yes,No
+298,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,No,No
+299,Game Development,Yes,Yes,Don't recall,Don't recall,Don't recall,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+300,Engineering,,,,,,,,,,Man,Multi-Racial,21-24,3.0,,Yes,No
+301,Information Technology,No,No,No,No,No,No,No,No,No,Woman,White/Caucasian,25-34,,First Choice,No,No
+302,Information Technology,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,25-34,,First Choice,No,No
+303,Information Technology,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,Yes
+304,Information Technology,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,25-34,,First Choice,No,Yes
+305,Information Technology,Yes,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+306,Information Technology,No,No,No,No,No,No,No,No,Yes,Man,Hispanic or Latino,21-24,,First Choice,Yes,Yes
+307,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,19-20,,First Choice,Yes,No
+308,Computer Science,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,35-64,,First Choice,Yes,Yes
+309,Business Administration,,,,,,,,,,Woman,Hispanic or Latino,19-20,4.0,,No,No
+310,High School Student,,,,,,,,,,Non-binary,White/Caucasian,18 and younger,5.0,,Yes,No
+311,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,No,Yes
+312,Engineering,,,,,,,,,,Man,White/Caucasian,25-34,3.0,,No,No
+313,Arts,Yes,Don't recall,Yes,Yes,Yes,No,Don't recall,Don't recall,No,Man,Hispanic or Latino,21-24,,First Choice,No,Yes
+314,Engineering,,,,,,,,,,Man,White/Caucasian,21-24,3.0,,Yes,No
+315,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+316,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,Yes,No
+317,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,No,No
+318,Information Technology,Yes,Yes,No,No,No,No,No,No,No,Man,Multi-Racial,18 and younger,,Math & Science,Yes,Yes
+319,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+320,ShareTime CSIP Program,No,No,No,No,No,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+321,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,No,No,Woman,White/Caucasian,18 and younger,,First Choice,No,Yes
+322,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,Math & Science,Yes,Yes
+323,ShareTime CSIP Program,Yes,Yes,Yes,No,No,No,No,No,No,Woman,Asian,18 and younger,,First Choice,Yes,Yes
+324,ShareTime CSIP Program,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+325,Cybersecurity,,,,,,,,,,Man,White/Caucasian,18 and younger,5.0,,Yes,No
+326,ShareTime CSIP Program,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+327,ShareTime CSIP Program,Yes,No,No,No,No,No,No,No,Yes,Man,Black/African American,18 and younger,,First Choice,Yes,Yes
+328,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,Yes,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+329,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+330,ShareTime CSIP Program,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Yes,Woman,Hispanic or Latino,18 and younger,,First Choice,No,Yes
+331,Information Security,Yes,Yes,Yes,Yes,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+332,ShareTime CSIP Program,Yes,Don't recall,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Yes,Woman,Choose not to reply,18 and younger,,First Choice,Yes,Yes
+333,ShareTime CSIP Program,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,18 and younger,,Engineering,Yes,Yes
+334,ShareTime CSIP Program,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Multi-Racial,18 and younger,,First Choice,No,No
+335,ShareTime CSIP Program,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+336,Engineering,,,,,,,,,,Man,White/Caucasian,25-34,5.0,,No,No
+337,Engineering,,,,,,,,,,Man,White/Caucasian,25-34,5.0,,Yes,No
+338,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Hispanic or Latino,21-24,,Business,No,No
+339,Data Science,Yes,Yes,No,Yes,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+340,Non-degree,,,,,,,,,,Man,Asian,18 and younger,4.0,,Yes,No
+341,Non-degree,,,,,,,,,,Woman,Asian,18 and younger,5.0,,Yes,No
+342,Computer Science,,,,,,,,,,Man,Hispanic or Latino,35-64,5.0,,Yes,No
+343,Information Technology,No,No,Yes,Don't recall,Yes,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+344,Non-degree,,,,,,,,,,Woman,Asian,18 and younger,5.0,,Yes,No
+345,Computer Science,No,No,Yes,Don't recall,No,No,No,No,Yes,Man,Multi-Racial,18 and younger,,Math & Science,No,Yes
+346,Information Technology,No,No,No,No,Yes,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,Yes
+347,Computer Science,No,No,No,Yes,Yes,No,No,No,Don't recall,Man,White/Caucasian,19-20,,First Choice,No,Yes
+348,High School Student,,,,,,,,,,Man,Asian,18 and younger,4.0,,No,No
+349,Information Security,No,No,No,No,No,No,No,No,Yes,Man,White/Caucasian,21-24,,First Choice,No,Yes
+350,Undecided,,,,,,,,,,Man,Asian,18 and younger,5.0,,Yes,No
+351,Information Technology,No,No,Don't recall,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+352,Data Science,Yes,Yes,Yes,No,No,No,No,No,No,Man,Black/African American,18 and younger,,First Choice,Yes,Yes
+353,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+354,Information Technology,Yes,No,No,Yes,Yes,No,No,No,Yes,Man,Multi-Racial,19-20,,First Choice,Yes,Yes
+355,Data Science,Yes,Yes,No,No,No,No,No,No,Don't recall,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+356,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,No
+357,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+358,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Math & Science,No,No
+359,Non-degree,,,,,,,,,,Non-binary,White/Caucasian,18 and younger,3.0,,Yes,No
+360,Computer Science,No,No,Yes,Yes,No,No,No,No,No,Woman,White/Caucasian,25-34,,Business,No,Yes
+361,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,Yes,No
+362,Computer Science,No,No,Yes,Yes,Don't recall,No,No,No,Don't recall,Man,White/Caucasian,35-64,,First Choice,No,Yes
+363,Computer Science,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Woman,Asian,19-20,,Engineering,Yes,Yes
+364,Arts,No,No,No,Yes,No,No,No,No,No,Man,Black/African American,21-24,,First Choice,Yes,Yes
+365,Information Technology,No,No,No,No,Yes,No,No,No,No,Man,White/Caucasian,19-20,,Business,Yes,Yes
+366,Engineering,,,,,,,,,,Woman,Hispanic or Latino,18 and younger,5.0,,Yes,No
+367,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,White/Caucasian,19-20,,Business,No,No
+368,Information Technology,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,No
+369,Information Technology,No,No,Yes,No,No,No,No,No,No,Woman,Multi-Racial,21-24,,Math & Science,Yes,Yes
+370,Engineering,,,,,,,,,,Man,White/Caucasian,18 and younger,3.0,,No,No
+371,Information Technology,No,No,Yes,Yes,No,No,No,No,No,Man,Multi-Racial,18 and younger,,Engineering,Yes,Yes
+372,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Man,Multi-Racial,19-20,,First Choice,Yes,Yes
+373,Computer Science,No,Yes,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Math & Science,No,Yes
+374,Engineering,,,,,,,,,,Man,Multi-Racial,25-34,3.0,,No,No
+375,Culinary Arts,,,,,,,,,,Woman,White/Caucasian,19-20,3.0,,No,No
+376,Computer Science,Don't recall,Don't recall,Yes,No,Don't recall,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+377,Computer Science,No,No,Yes,No,No,No,No,No,No,Woman,Hispanic or Latino,18 and younger,,First Choice,No,Yes
+378,Computer Science,No,No,No,No,No,No,No,No,No,Man,Asian,18 and younger,,First Choice,No,No
+379,Information Security,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,No,Yes
+380,Game Development,No,No,No,No,Yes,No,No,No,Don't recall,Man,Asian,18 and younger,,First Choice,Yes,Yes
+381,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,Yes,No
+382,High School Student,,,,,,,,,,Man,Asian,18 and younger,4.0,,Yes,No
+383,Computer Science,Yes,No,No,Yes,Yes,No,No,No,Don't recall,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+384,Computer Science,No,No,No,No,No,No,No,No,No,Man,Asian,25-34,,First Choice,No,No
+385,Computer Science,Yes,No,Yes,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,Yes
+386,Math & Sciences,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,Engineering,Yes,No
+387,Computer Science,,,,,,,,,,Man,Multi-Racial,19-20,4.0,,No,No
+388,Engineering,,,,,,,,,,Man,Choose not to reply,19-20,1.0,,Yes,No
+389,Computer Science,Yes,No,Yes,Yes,Don't recall,No,No,No,Yes,Non-binary,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+390,Engineering,,,,,,,,,,Man,White/Caucasian,19-20,4.0,,No,No
+391,Information Technology,Yes,Yes,No,No,No,No,No,No,No,Man,Asian,19-20,,First Choice,Yes,Yes
+392,Computer Science,No,No,No,No,Yes,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,Yes,Yes
+393,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Choose not to reply,21-24,,First Choice,No,No
+394,Non-degree,,,,,,,,,,Man,Asian,19-20,5.0,,Yes,No
+395,Non-degree,,,,,,,,,,Man,Choose not to reply,18 and younger,5.0,,Yes,No
+396,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,Math & Science,No,No
+397,Information Technology,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Don't recall,Man,Black/African American,19-20,,First Choice,Yes,Yes
+398,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,Choose not to reply,21-24,,First Choice,Yes,Yes
+399,Undecided,,,,,,,,,,Man,White/Caucasian,19-20,4.0,,Yes,No
+400,Undecided,,,,,,,,,,Man,White/Caucasian,35-64,5.0,,No,No
+401,Information Technology,No,No,No,No,No,No,No,No,No,Prefer not to say,Choose not to reply,35-64,,First Choice,No,No
+402,Math & Sciences,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Woman,American Indian/Native American/Alaska Native,21-24,,Engineering,Yes,Yes
+403,Computer Science,No,No,Yes,No,No,No,No,No,Yes,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+404,Information Technology,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,25-34,,Health Sciences,No,Yes
+405,Computer Science,Yes,No,No,Yes,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,Yes
+406,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,White/Caucasian,19-20,,First Choice,Yes,No
+407,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+408,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Hispanic or Latino,19-20,,First Choice,No,No
+409,Information Technology,Yes,No,Yes,No,No,No,No,No,Don't recall,Man,White/Caucasian,19-20,,Criminal Justice,Yes,Yes
+410,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,21-24,,Liberal Arts,No,Yes
+411,Information Technology,No,No,Yes,Yes,Yes,No,No,No,No,Man,White/Caucasian,35-64,,First Choice,No,Yes
+412,Information Technology,No,No,Yes,No,No,No,No,No,No,Man,Hispanic or Latino,21-24,,Undecided,No,Yes
+413,Information Technology,No,No,No,No,No,No,No,No,No,Man,Black/African American,35-64,,First Choice,No,No
+414,Computer Science,No,No,Yes,Yes,Yes,No,No,No,No,Woman,Multi-Racial,19-20,,Math & Science,No,Yes
+415,Information Technology,Yes,Yes,Yes,No,No,No,No,No,No,Man,White/Caucasian,19-20,,First Choice,No,Yes
+416,Information Technology,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,No,Yes
+417,Information Technology,No,No,No,Yes,Yes,No,No,No,No,Man,Asian,18 and younger,,First Choice,Yes,Yes
+418,Information Technology,Yes,No,Yes,Yes,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+419,Information Technology,Yes,No,Yes,Yes,No,No,No,No,No,Man,White/Caucasian,18 and younger,,First Choice,Yes,Yes
+420,Information Technology,No,No,No,No,Yes,No,No,No,No,Man,Black/African American,25-34,,First Choice,No,Yes
+421,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Hispanic or Latino,19-20,,First Choice,No,No
+422,Information Technology,No,No,No,No,No,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,No,No
+423,Information Technology,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,Yes
+424,Information Technology,No,No,Yes,No,Yes,No,No,No,No,Man,White/Caucasian,25-34,,First Choice,No,Yes
+425,Information Technology,No,No,Yes,Yes,No,No,No,No,No,Non-binary,White/Caucasian,21-24,,First Choice,No,Yes
+426,Information Security,No,No,No,No,No,No,No,No,No,Woman,Multi-Racial,25-34,,First Choice,No,No
+427,Information Technology,No,No,No,No,No,No,No,No,No,Woman,Multi-Racial,19-20,,Criminal Justice,No,No
+428,Computer Science,No,No,Yes,Yes,No,No,No,No,No,Man,Asian,19-20,,First Choice,Yes,Yes
+429,Game Development,No,No,No,No,Yes,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+430,Information Security,Don't recall,Don't recall,No,No,No,No,No,No,No,Man,White/Caucasian,21-24,,First Choice,No,No
+431,Information Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Man,Black/African American,21-24,,Criminal Justice,Yes,Yes
+432,Information Technology,Yes,Yes,No,Yes,No,No,No,No,Yes,Man,Multi-Racial,19-20,,First Choice,Yes,Yes
+433,Information Technology,,,,,,,,,,Man,White/Caucasian,19-20,3.0,,Yes,No
+434,Computer Science,Don't recall,Don't recall,Yes,Yes,Don't recall,No,No,No,Don't recall,Woman,White/Caucasian,25-34,,Liberal Arts,Yes,Yes
+435,Information Technology,No,No,No,No,No,No,No,No,Don't recall,Man,Multi-Racial,19-20,,Art,No,No
+436,Information Technology,No,Yes,No,No,No,No,No,No,No,Man,Choose not to reply,19-20,,First Choice,Yes,Yes
+437,Information Security,Don't recall,Don't recall,No,No,Yes,No,No,No,No,Man,Multi-Racial,21-24,,First Choice,No,Yes
+438,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,White/Caucasian,19-20,,First Choice,No,No
+439,Computer Science,No,No,No,No,No,No,No,No,No,Man,White/Caucasian,19-20,,Undecided,Yes,No
+440,Game Development,Yes,Don't recall,No,No,Yes,No,No,No,No,Man,Multi-Racial,18 and younger,,Undecided,Yes,Yes
+441,Information Technology,Yes,Yes,No,Yes,No,No,No,No,Yes,Man,Multi-Racial,19-20,,First Choice,Yes,Yes
+442,Information Technology,Yes,No,Yes,No,Yes,No,No,No,No,Man,Multi-Racial,18 and younger,,First Choice,Yes,Yes
+443,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Man,Multi-Racial,19-20,,Psychology,No,No
+444,Computer Science,No,No,Yes,No,No,No,No,No,No,Man,White/Caucasian,21-24,,Math & Science,No,Yes
+445,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,18 and younger,,First Choice,Yes,No
+446,Information Technology,No,No,No,No,No,No,No,No,No,Man,Asian,21-24,,First Choice,No,No
+447,Business Administration,,,,,,,,,,Man,Hispanic or Latino,21-24,4.0,,No,No
+448,Computer Science,No,No,No,No,No,No,No,No,No,Man,Multi-Racial,19-20,,Health Sciences,No,No
+449,Computer Science,No,No,No,No,No,No,No,No,No,Man,Hispanic or Latino,21-24,,First Choice,Yes,No
+450,Computer Science,Don't recall,Don't recall,Yes,Don't recall,No,No,No,No,Yes,Man,Multi-Racial,18 and younger,,Math & Science,No,Yes
+451,Computer Science,No,No,Yes,Yes,No,No,No,No,Don't recall,Man,White/Caucasian,19-20,,First Choice,Yes,Yes
+452,Game Development,Yes,No,No,No,Yes,No,No,No,No,Man,Black/African American,18 and younger,,First Choice,Yes,Yes
